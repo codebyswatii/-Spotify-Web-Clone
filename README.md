@@ -30,8 +30,8 @@ A fully responsive frontend clone of the **Spotify Web Player** using **HTML, CS
 ## 🖼️ Preview
 
 ![Screenshot of Spotify Web Clone](screenshot1.png)
-(screenshot2.png)
-(screenshot3.png)
+![Screenshot of Spotify Web Clone](screenshot2.png)
+![Screenshot of Spotify Web Clone](screenshot3.png)
 
 ## 📚 What I Learned
 
